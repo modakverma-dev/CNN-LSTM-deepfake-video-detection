@@ -1,4 +1,5 @@
-# Deepfake Video Detection using CNN–LSTM
+# Deepfake Video Detection using CNN–LSTM<img width="1112" height="588" alt="Screenshot 2026-01-08 at 12 56 38 AM" src="https://github.com/user-attachments/assets/3a29220f-8965-4123-aa04-bca17010bd9f" />
+
 
 This project implements a deep learning–based approach for detecting deepfake videos by modeling both spatial facial features and temporal inconsistencies across video frames. A pretrained ResNeXt-50 CNN is used for feature extraction, followed by an LSTM network for sequence modeling.
 
