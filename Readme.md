@@ -8,6 +8,7 @@ This project implements a deep learning–based approach for detecting deepfake 
 ## Project Overview
 
 Deepfake videos often contain subtle spatial artifacts and temporal inconsistencies that are difficult to detect using frame-level analysis alone. This project addresses the problem by combining convolutional and recurrent neural networks to perform end-to-end video classification into REAL and FAKE categories.
+<img width="938" height="586" alt="Screenshot 2026-01-08 at 2 46 14 AM" src="https://github.com/user-attachments/assets/b89493f4-7694-4d39-8caa-c9ac3bcc7ce0" />
 
 ---
 
